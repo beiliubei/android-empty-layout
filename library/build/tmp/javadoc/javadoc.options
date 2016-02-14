@@ -1,6 +1,0 @@
--classpath '/Users/liubei/Applications/adt-bundle-mac-x86_64/sdk/platforms/android-16/android.jar:/Users/liubei/Applications/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-v4/20.0.0/support-v4-20.0.0.aar:/Users/liubei/Applications/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar'
--d '/Users/liubei/Documents/work/github/android-empty-layout/library/build/docs/javadoc'
--doctitle 'library API'
--quiet 
--windowtitle 'library API'
-'/Users/liubei/Documents/work/github/android-empty-layout/library/src/main/java/com/kanak/emptylayout/EmptyLayout.java'
