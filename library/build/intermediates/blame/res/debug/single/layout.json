@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/liubei/Documents/work/github/android-empty-layout/library/build/intermediates/res/merged/debug/layout/view_empty.xml",
+        "source": "/Users/liubei/Documents/work/github/android-empty-layout/library/src/main/res/layout/view_empty.xml"
+    },
+    {
+        "merged": "/Users/liubei/Documents/work/github/android-empty-layout/library/build/intermediates/res/merged/debug/layout/view_error.xml",
+        "source": "/Users/liubei/Documents/work/github/android-empty-layout/library/src/main/res/layout/view_error.xml"
+    },
+    {
+        "merged": "/Users/liubei/Documents/work/github/android-empty-layout/library/build/intermediates/res/merged/debug/layout/view_loading.xml",
+        "source": "/Users/liubei/Documents/work/github/android-empty-layout/library/src/main/res/layout/view_loading.xml"
+    }
+]
